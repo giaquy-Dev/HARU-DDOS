@@ -24,7 +24,7 @@ time.sleep(1)
 os.system("cls" if os.name == "nt" else "clear")
 print(f"Welcome To Server | User: {uname}")
 print("please wait...")
-print("Get Username and Password at: http://traffic1s.com/katapanel")
+print("Get Username and Password at: https://fnote.net/notes/f4ce1b")
 ip= requests.get('https://api.ipify.org').text.strip()
 online= random.randint(1, 153)
 
