@@ -2,7 +2,7 @@
  
 # 🚀 HARU DDOS V1 - DDoS Panel 🚀
 
-# Get Username and pass at: http://traffic1s.com/katapanel
+# Get Username and pass at: [FNOTE](https://fnote.net/notes/f4ce1b)
 # README ♥️
 Thank you for using, please help me press a star button, thank you very much.<br>
 One star = continuously updating multiple methods
