@@ -78,19 +78,17 @@ def mip():
     print(f"""\x1b[0mYour IP Is \x1b[40;38;2;127;0;255m{ip}\x1b[0m""")
 ###Account###
 def account():
-    print(f"""\x1b[0mID: \x1b[38;2;255;0;255mUnknown\x1b[0m
+    print(f"""\x1b[0mID: \x1b[38;2;255;0;255m1087160305521\x1b[0m
 \x1b[0mUsername: \x1b[38;2;255;0;255m{uname}
-\x1b[0mAdmin: false
-\x1b[0mReseller: false
-\x1b[0mVIP: false
-\x1b[0mBypass Blacklist: true
+\x1b[0mAdmin: nonprotion
+\x1b[0mReseller: nonprotion
+\x1b[0mVIP: TRUE
+\x1b[0mBypass Blacklist: TRUE
 
-\x1b[0mExpiry: \x1b[38;2;255;0;255m30\x1b[0m Day(s)
 \x1b[0mMaxTime: \x1b[38;2;255;0;255m99999 \x1b[0mSeconds
-\x1b[0mCooldown: \x1b[38;2;255;0;255m0\x1b[0m Seconds
+\x1b[0mCooldown: \x1b[38;2;255;0;255m1\x1b[0m Seconds
 \x1b[0mConcurrents: \x1b[38;2;255;0;255m1\x1b[0m
 \x1b[0mMax Sessions: \x1b[38;2;255;0;255m4\x1b[0m
-\x1b[0mMy Attacks Sent: \x1b[38;2;255;0;255mUnknow\x1b[0m
 \x1b[0mCurrent IPv4: \x1b[38;2;255;0;255m{ip}\x1b[0m""")
 
 ###help###
